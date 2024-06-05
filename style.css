@@ -20,6 +20,10 @@ body{
     font-family: var(--roboto);
 }
 
+.cadeado {
+    width: 5%;
+}
+
 .titulo-principal{
     font-family: var(--roboto-mono);
     font-size: 32px;
